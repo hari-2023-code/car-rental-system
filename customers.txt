@@ -1,0 +1,26 @@
+CU001,Harikrishna Mmehata,harimehta21@gmail.com,9869075899,sanepa,22/12/2025,40
+CU002,diwakar yadav,aghjhcajh@gmail.com,8786657999,dzdgznz,26/12/2025,0
+CU001,Harikrishna Mmehata,harimehta21@gmail.com,9869075899,sanepa,22/12/2025,0
+CU002,diwakar yadav,aghjhcajh@gmail.com,8786657999,dzdgznz,26/12/2025,0
+CU001,Harikrishna Mmehata,harimehta21@gmail.com,9869075899,sanepa,22/12/2025,20
+CU002,diwakar yadav,aghjhcajh@gmail.com,8786657999,dzdgznz,26/12/2025,0
+CU001,Harikrishna Mmehata,harimehta21@gmail.com,9869075899,sanepa,22/12/2025,0
+CU002,diwakar yadav,aghjhcajh@gmail.com,8786657999,dzdgznz,26/12/2025,0
+CU001,Harikrishna Mmehata,harimehta21@gmail.com,9869075899,sanepa,22/12/2025,20
+CU002,diwakar yadav,aghjhcajh@gmail.com,8786657999,dzdgznz,26/12/2025,0
+CU001,Harikrishna Mmehata,harimehta21@gmail.com,9869075899,sanepa,22/12/2025,0
+CU002,diwakar yadav,aghjhcajh@gmail.com,8786657999,dzdgznz,26/12/2025,0
+CU003,Mohan,mohan@gmai.com,9000000012,kathmandu,26/12/2025,0
+CU001,Harikrishna Mmehata,harimehta21@gmail.com,9869075899,sanepa,22/12/2025,20
+CU002,diwakar yadav,aghjhcajh@gmail.com,8786657999,dzdgznz,26/12/2025,0
+CU001,Harikrishna Mmehata,harimehta21@gmail.com,9869075899,sanepa,22/12/2025,0
+CU002,diwakar yadav,aghjhcajh@gmail.com,8786657999,dzdgznz,26/12/2025,0
+CU001,Harikrishna Mmehata,harimehta21@gmail.com,9869075899,sanepa,22/12/2025,20
+CU002,diwakar yadav,aghjhcajh@gmail.com,8786657999,dzdgznz,26/12/2025,0
+CU001,Harikrishna Mmehata,harimehta21@gmail.com,9869075899,sanepa,22/12/2025,0
+CU002,diwakar yadav,aghjhcajh@gmail.com,8786657999,dzdgznz,26/12/2025,0
+CU001,Harikrishna Mmehata,harimehta21@gmail.com,9869075899,sanepa,22/12/2025,20
+CU002,diwakar yadav,aghjhcajh@gmail.com,8786657999,dzdgznz,26/12/2025,0
+CU001,Harikrishna Mmehata,harimehta21@gmail.com,9869075899,sanepa,22/12/2025,0
+CU002,diwakar yadav,aghjhcajh@gmail.com,8786657999,dzdgznz,26/12/2025,0
+CU003,Mohan,mohan@gmai.com,9000000012,kathmandu,26/12/2025,0
